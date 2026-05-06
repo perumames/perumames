@@ -1,5 +1,8 @@
 Hello.
 ======
+Welcome to my profile
+---------------------
+
 ## Timeline
 1. Took first year of Computer Science at Dutch TU
 2. Moved to Data Science & Artificial Intelligence
