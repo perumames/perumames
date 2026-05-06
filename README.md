@@ -2,6 +2,8 @@ Hello.
 ======
 Welcome to my profile
 ---------------------
+## Contact
+E-Mail Address: slimness_glaucoma458@simplelogin.com
 
 ## Timeline
 1. Took first year of Computer Science at Dutch TU
