@@ -15,7 +15,7 @@ Hello.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ## Working On
-**Java-Vector-Nexus** : Visual Novel development kit and UI
+**Java-Vector-Nexus** : Visual Novel development kit and UI\
 **COMFRIC** *working title* : Modular Wargame RPG
 
 <!--
