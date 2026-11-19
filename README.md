@@ -8,7 +8,7 @@ E-Mail Address: slimness_glaucoma458@simplelogin.com
 ## Timeline
 1. Took first year of Computer Science at Dutch TU
 2. Moved to Data Science & Artificial Intelligence
-- Currently finishing first year of DSAI
+- Currently finishing first second of DSAI
 
 ## Learning
 - LibGDX
